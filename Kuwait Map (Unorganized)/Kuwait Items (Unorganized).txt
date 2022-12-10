@@ -1,0 +1,367 @@
+5000: Monarchist
+5001: Monarchist Magazine
+5002: Monarchist Irons
+5003: Suncrack
+5004: Suncrack Irons
+5005: Mirage
+5006: Mirage Magazine
+5007: Mirage Scope
+5008: Avenger
+5009: Catalyst
+5010: Catalyst Magazine
+5011: Al-Musaytir
+5012: Duststorm
+5013: Militia Magazine
+5014: Duststorm Irons
+5015: Teklowvka
+5016: Snayperska
+5017: Snayperska Magazine
+5018: Snayperska Irons
+5019: Ekho
+5020: Ekho Irons
+5021: 1911
+5022: Viper
+5023: Viper Irons
+5024: Desert Falcon
+5025: Ace
+5026: Paintball Gun
+5027: Compound Bow
+5028: Bow Sights
+5029: Crossbow
+5030: Crossbow Sights
+5031: Arrow
+5032: Colonizer
+5033: Colonizer Clips
+5034: Colonizer Irons
+5035: Galvenizer
+5036: Galvenizer Battery
+5037: Galvenizer Battery A
+5038: Galvenizer Battery D
+5039: Galvenizer Battery O
+5040: Galvenizer Battery S
+5041: Palm Rifle
+5042: Coalition Suncrack
+5043: Vader Suncrack
+5044: Pulse Magazine
+5049: Slipper
+5050: Headband
+5051: Scimitar
+5052: Cucumber Club
+5053: Makeshift Light
+5054: Makeshift Optic
+5055: Makeshift Scope
+5056: Tactical Light
+5057: Tactical Laser
+5058: Rangefinder
+5059: Adaptive Chambering
+5060: Bayonet
+5061: Vertical Grip
+5062: Horizontal Grip
+5063: Bipod
+5064: Kobra Sight
+5065: 7x Scope
+5066: Dot Sight
+5067: Halo Sight
+5068: Chevron Scope
+5069: Cross Scope
+5070: 8x
+5071: 16x
+5072: Ranger Suppressor
+5073: Ranger Muzzle
+5074: Ranger Barrel
+5075: Military Suppressor
+5076: Military Muzzle
+5077: Military Barrel
+5078: Makeshift Muffler
+5079: Butterfly Knife
+5080: Machete
+5081: Sledgehammer
+5082: Saw
+5083: Crowbar
+5084: Hammer
+5085: Shovel
+5086: Pickaxe
+5087: Oil Bucket
+5088: Camp Axe
+5089: Pocketknife
+5090: Paddle
+5091: Kitchen Knife
+5092: Butcher Knife
+5093: Fire Axe
+5094: Blowtorch
+5095: Baseball Bat
+5096: Military Knife
+5097: Pitchfork
+5098: Scythe
+5099: Chainsaw
+5100: Frying Pan
+5101: Baton
+5102:
+5103: Flashlight
+5104: Puzzle Bomb
+5105: Grenade
+5106: Charge
+5107: Military Nightvision Scope
+5108: Makeshift Bat
+5109: EMP Grenade
+5110: Spectral Scimitar
+5111: Spectral Mattock
+5112: Arc Welder
+5113: Kuwait Black Smoke
+5114: Kuwait Green Smoke
+5115: Kuwait Grey Smoke
+5116: Kuwait Tan Smoke
+5117: Kuwait White Smoke
+5118: Pulsette Magazine
+5201: Cucumber
+5202: Dates
+5203: Milk Date Cake
+5204: Garden Salad
+5205: Shawarma
+5206: Chocolate Milk
+5207: Cucumber_Water
+5208: Bottled Oil
+5209: Cheese
+5210: Carrot
+5211: Corn
+5212: Lettuce
+5213: Potato
+5214: Tomato
+5215: Wheat
+5216: Bread
+5217: Eggs
+5218: Chips
+5219: Candy Bar
+5220: Chocolate Bar
+5221: Energy Bar
+5222: Granola Bar
+5223: Apple Juice
+5224: Grape Juice
+5225: Canned Cola
+5226: Canned Soda
+5227: Canned Beans
+5228: Canned Beef
+5229: Canned Pasta
+5230: Canned Sardines
+5231: Canned Chicken Soup
+5232: Canned Tomato Soup
+5233: Canned Tuna
+5234: Bottled Coconut
+5235: Bottled Energy
+5236: Bottled Water
+5237: Milk
+5238: Orange Juice
+5239: Bottled Cola
+5240: Bottled Soda
+5241: MRE
+5242: Canned Bacon
+5243: Canned Ham
+5244: Electro-Fish
+5245: Ghost-Fish
+5246: Fred The Fish
+5247: Raw Fish
+5248: Cooked Fish
+5249: Grilled Cheese
+5250: Fish Sandwich
+5251: Indigo Berries
+5252: Cake
+5253: Dough
+5254: Doughnut
+5255: Waffle
+5256: Pancake
+5257: Maple Syrup
+5258: Meat
+5259: Glue
+5260: Chemicals
+5261: Plastic Flask
+5262: Carrot Seed
+5263: Corn Seed
+5264: Lettuce Seed
+5265: Potato Seed
+5266: Tomato Seed
+5267: Wheat Seed
+5268: Indigo Berry Seed
+5269: Cooked Meat
+5270: Bottled Air
+5271: Sunpomme
+5272: Evanesce Flask
+5273: Bran Cereal
+5301: Desert Military Top
+5302: Desert Military Bottom #1
+5303: Desert Vest #1
+5304: Desert Rucksack
+5305: Desert Coyotepack
+5306: Desert SpecOps Top
+5307: Desert SpecOps Bottom
+5308: Police Top
+5309: Police Bottom
+5310: Police Beret
+5311: Rusted Talon
+5312: Militia Scarf
+5313: Coalition Top (Private)
+5314: Coalition Top
+5315: Coalition Top
+5316: Coalition Top
+5317: Coalition Top
+5318: Coalition Top
+5319: Coalition Top
+5320: Coalition Top
+5321: Coalition Cap (Admiral)
+5322: Coalition Bottoms
+5323: Coalition Vest #1
+5324: Coalition Helmet
+5325: Coalition Boonie
+5326: Coalition Beret
+5327: White Ghatra
+5328: Plaid Ghatra
+5329: Traditional Gown Top
+5330: Traditional Gown Bottom
+5331: Industry Top
+5332: Industry Bottom
+5333: Caracal Mesh Replacement
+5334: Plastic Gasmask
+5335: Whitecat Mesh Replacement
+5336: Talon #2
+5337: Talon #3
+5338: Leather Top
+5339: Leather Bottom
+5340: Leather Daypack
+5341: Spectral Top
+5342: Spectral Bottom
+5343: Spectral Helmet
+5401: Rope Ladder
+5402: Palm Crate
+5403: Palm Barricade
+5404: Bonfire
+5405: Puzzle Trophy
+5406: Dino Small
+5407: Dino BEEG
+5408: Electric Fence
+5409: Burgan Oil Fire
+5410: Cucumber Spikes
+5411: Carepackage
+5412: Palm Floor
+5413: Palm Triangular Floor
+5414: Palm Roof
+5415: Palm Triangular Roof
+5416: Palm Pillar
+5417: Palm Wall
+5418: Palm Doorway
+5419: Palm Window
+5420: Palm Garage
+5421: Palm Stairs
+5422: Palm Ramp
+5423: Palm Hole
+5424: Palm Post
+5425: Palm Rampart
+5426: Palm Rampwall
+5427: Brick Pillar
+5428: Brick Wall
+5429: Brick Doorway
+5430: Brick Window
+5431: Brick Garage
+5432: Brick Post
+5433: Brick Rampart
+5434: Brick Rampwall
+5435: Spectral Floor
+5436: Spectral Triangular Floor
+5437: Spectral Roof
+5438: Spectral Triangular Roof
+5439: Spectral Pillar
+5440: Spectral Wall
+5441: Spectral Doorway
+5442: Spectral Window
+5443: Spectral Garage
+5444: Spectral Stairs
+5445: Spectral Ramp
+5446: Spectral Hole
+5447: Spectral Post
+5448: Spectral Rampart
+5449: Spectral Rampwall
+5450: Metal Hatch
+5451: Palm Door
+5452: Jail Door
+5453: Metal Door
+5454: Vault Door
+5455: Palm Fortification
+5456: Bars Fortifcation
+5457: Palm Hammock
+5458: Weak Glass
+5459: Bulletproof Glass
+5460: One Way Glass
+5461: Palm Square Table
+5462: Palm Rectangular Table
+5463: Palm Circular Table
+5464: Palm Chair
+5465: Pillow
+5466: Wildflower Bouquet
+5467: Shark Plush
+5468: Big Pillow #1
+5469: Weapon Beacon
+5470: Supply Beacon
+5471: Palm Sign
+5472: Palm Spikes
+5473: Treasure
+5474: Palm Hatch
+5475: Palm Gate
+5476: Palm “Locker”
+5477: Big PIllow #2
+5478: Planter
+5479: Plot
+5480: Plot Roof
+5481: Plot Triangular Roof
+5501: Palm Fibre id
+5502: Stack o’ Bricks id
+5503: Bag o’ Bricks id
+5504: Wildflowers id
+5505: Briefcase id
+5506: Mutated Cucumber id
+5507: Plastic Sheets id
+5508: Seaweed Sheets id
+5509: 1 Dinar id
+5510: 5 Dinars id
+5511: 10 Dinars id
+5512: 20 Dinars id
+5513: 10 Dinar Stack id
+5514: 20 Dinar Stack id
+5515: Plastic Filter id
+5516: Palm Glider id
+5517: Fishing Rod id
+5518: Bayonet Blueprint id
+5519: Binoculars id
+5520: Rag id
+5521: Bandage id
+5522: Dressing id
+5523: Medkit id
+5524: Suturekit id
+5525: Bloodbag id
+5526: Vitamins id
+5527: Cough Syrup id
+5528: Tablets id
+5529: Painkillers id
+5530: Antibiotics id
+5531: Vaccine id
+5532: Adrenaline id
+5533: Morphine id
+5534: Splint id
+5535: Gas Can id
+5536: Rope id
+5537: Tape id
+5538: Can id
+5539: Plastic Jerry Can id
+5540: Pearl id
+5541: Fiberglass Fishing Rod id
+5542: Fiberglass Rod id
+5543: Fiberglass Caster id
+5544: Soft Handle id
+5545: Blue Module id
+5546: Blue Batteries id
+5547: Orange Module id
+5548: Orange Batteries id
+5549: Evanesce Pockets id
+5550: Armour Plate id
+5551: Spectral Stone id
+5552: Spectral Cloth id
+5553: Spectral Gauze id
+5556: Capacitor Crate id
+5557: Palm Gas Can id

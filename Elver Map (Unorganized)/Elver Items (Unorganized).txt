@@ -1,0 +1,315 @@
+57028 Sauce
+57053 Valentine
+57058 Mosca
+57081 Mosca [Static]
+57101 Devestator [Unequippable]
+57103 Reflection
+57126 Wisp
+57128 Puck
+57133 Double-Down
+57135 Pallas
+57138 Tusk
+57145 Heatwave
+57164 Skilark
+57205 Paug
+57207 Red Rebel
+57209 Rebel
+57211 Paug [Static]
+57280 Rebel [Static]
+57281 Heatwave [Static]
+57282 Puck [Static]
+57448 Red Rebel [Static]
+57473 Mosca [Gold]
+57476 Heatwave [Gold]
+57477 Rebel [Gold]
+57486 Pandiculator
+57488 Cut-down
+57490 Blaster
+57492 Pandiculator [Static]
+57001 Tank Shell
+57031 Sniper Rifle Magazine [10 Capacity]
+57055 Assault Rifle Magazine [30 Capacity]
+57057 Assault Rifle Magazine [60 Capacity]
+57127 Pistol Magazine [20 Capacity]
+57131 Pistol Magazine [40 Capacity]
+57134 Shotgun Shells [8 Capacity]
+57146 Heatwave Box [100 Capacity]
+57487 Pandiculator Drum [24 Capacity]
+57032 High Caliber Ranger Ammunition Crate [40 Capacity]
+57056 Low Caliber Military Ammunition Crate [40 Capacity]
+57061 Low Caliber Civilian Ammunition Crate [25 Capacity]
+57111 Large Low Caliber Military Ammunition Crate [200 Capacity]
+57112 Large High Caliber Ranger Ammunition Crate [100 Capacity]
+57113 Low Caliber Ranger Ammunition Crate [40 Capacity]
+57114 High Caliber Military Ammunition Crate [40 Capacity]
+57029 Sauce Stock
+57050 Reverso Stock [Gray]
+57051 Raider Stock [Gray]
+57054 Valentine Stock
+57060 Mosca Stock
+57074 Reverso Stock [Green]
+57075 Reign Stock [Green]
+57076 Propane Stock [Green]
+57077 Reign Stock [Gray]
+57078 Propane Stock [Gray]
+57104 Reflection Stock
+57130 Puck Stock
+57140 Tusk Stock
+57148 Heatwave Stock
+57208 Red Rebel Stock
+57210 Rebel Stock
+57474 Propane Stock [Gold]
+57478 Raider Stock [Gold]
+57217 Heavy Barrel
+57218 Flash Hider
+57219 Suppressor
+57220 Pistol Suppressor
+57279 Muzzle Break
+57030 7x scope
+57059 Mosca Iron Sight
+57094 4x Scope [Green]
+57095 4x scope [Gray]
+57096 Holo sight [Dot]
+57097 6x scope [Gray]
+57105 Reflection Iron Sight
+57129 Puck Iron Sight
+57136 Pallas Iron Sight
+57139 Tusk Iron Sight
+57144 Holo Sight [Cobra]
+57147 Heatwave Iron Sight
+57165 Skilark Iron Sight
+57206 Paug Iron Sight
+57475 4x Scope [Gold]
+57479 6x Scope [Gold]
+57052 Vertical Grip [Brown]
+57079 Vertical Grip [Gray]
+57080 Vertical Grip [Green]
+57141 Horizontal Grip [Brown]
+57142 Horizontal Grip [Gray]
+57143 Horizontal Grip [Green]
+57091 Staff [Upgraded]
+57093 Staff
+57334 Drill
+57483 Golden Sword Fish
+57003 THICC Military Helmet
+57004 THICC Military Vest
+57005 THICC Military Backpack
+57006 Military Top
+57007 Military Shirt
+57008 Military Pants
+57009 Military Vest
+57010 Military Helmet
+57011 Military Alicepack
+57012 Military Sling Backpack
+57013 THICC Military Top
+57014 THICC Military Pants
+57020 Military Nightvision
+57024 Striped Shirt
+57038 Cultist Robe #1
+57039 Cultist Hood #1
+57040 Cultist Robe #2
+57041 Cultist Hood #2
+57042 Cultist Robe #3
+57043 Cultist Hood #3
+57155 Firefighter Bottom
+57156 Firefighter Helmet
+57157 Firefighter Top
+57158 Construction Bottom
+57159 Construction Helmet
+57160 Construction Top
+57161 Police Bottom
+57162 Police Helmet
+57163 Police Top
+57166 Police Vest
+57167 Civilian Vest
+57168 Police Backpack
+57169 Black Backpack
+57170 Blue Backpack
+57171 Red Backpack
+57172 White Backpack
+57173 Yellow Backpack
+57174 Black Shirt
+57175 Blue Shirt
+57176 Red Shirt
+57177 White Shirt
+57178 Yellow Shirt
+57179 Pant Black
+57180 Pant Blue
+57181 Pant Red
+57182 Pant White
+57183 Pant Yellow
+57213 Ranger Nightvision
+57460 Black Vest
+57461 Blue Vest
+57462 Red Vest
+57463 Yellow Vest
+57464 White Vest
+57494 Cloth Backpack Tier 1
+57495 Cloth Backpack Tier 2
+57496 Cloth Backpack Tier 3
+57497 Cloth Backpack Tier 4
+57507 Plastic Military Helmet Replica
+57015 Graphics Card
+57016 Phone
+57017 Defiblirator Battery
+57018 Respirator
+57021 Military Radio
+57023 Rubber
+57025 Components
+57026 Gyroscope
+57033 Mesh
+57062 Gunpowder
+57067 Red Dye
+57068 Green Dye
+57069 Black Dye
+57070 Brown Dye
+57071 Cyan Dye
+57072 Magenta Dye
+57073 Yellow Dye
+57092 Green Crystal
+57098 Pine J
+57099 Metal J
+57100 Cloth J
+57106 Devestator Barrel
+57107 Devestator Receiver
+57108 Devestator Engine
+57110 Circuit board
+57185 Melon
+57221 Magenta Crystal
+57222 Cyan Crystal
+57450 Blue Dye
+57022 Respirator Filter
+57027 Telescope
+57063 Detonator
+57065 Grenade
+57115 Fishing Rod
+57116 THICC Fishing Rod
+57203 Canteen
+57307 Military Binos
+57308 Parachute
+57309 White Balloon
+57310 Black Balloon
+57311 Blue Balloon
+57312 Brown Balloon
+57313 Cyan Balloon
+57314 Green Ball0on
+57315 Magenta Balloon
+57316 Red Balloon
+57317 Yellow Balloon
+57340 Jerry Can
+57341 Large Jerry Can
+57449 Burned Pizza
+57466 Tablet 10
+57467 Tablet 50
+57468 Tablet 250
+57469 Tablet 1000
+57472 Mysterious Chest
+57484 Bag o’ Lead
+57034 Horde Beacon
+57064 Plastic Explosives
+57082 Banner White
+57083 Banner Blue
+57084 Banner Red
+57085 Banner Green
+57086 Banner Magenta
+57087 Banner Yellow
+57088 Banner Cyan
+57089 Banner Brown
+57090 Banner Black
+57109 Turret
+57184 Melon Seeds
+57188 Planter
+57189 Wheat Seeds
+57191 Wheat Seeds Bundle
+57195 Pumpkin Seeds
+57201 Carrot Seeds
+57216 Airdrop
+57229 Berry Seed
+57261 Large Safe Metal
+57262 Large Safe Crystal
+57263 Baby Safe Metal
+57264 Baby Safe Crystal
+57265 Door Metal
+57266 Door Crystal
+57267 Gate Metal
+57268 Gate Crystal
+57269 Hatch Metal
+57270 Hatch Crystal
+57271 Vault Metal
+57272 Vault Crystal
+57273 Shutter Metal
+57274 Shutter Crystal
+57275 Hatch Vault Metal
+57276 Hatch Vault Crystal
+57283 White Bedroll
+57284 Blue Bedroll
+57285 Red Bedroll
+57286 Green Bedroll
+57287 Magenta Bedroll
+57288 Yellow Bedroll
+57289 Cyan Bedroll
+57290 Brown Bedroll
+57291 Black Bedroll
+57292 Pine Chair
+57293 Couch White
+57294 Couch Black
+57295 Couch Blue
+57296 Couch Brown
+57297 Couch Cyan
+57298 Couch Green
+57299 Couch Magenta
+57300 Couch Red
+57301 Couch Yellow
+57302 Computer
+57485 Cloth Seeds
+57504 Big J’s J
+57224 Roof Hole Triangle Metal
+57225 Roof Hole Triangle Crystal
+57226 Roof Triangle Metal
+57227 Roof Triangle Crystal
+57231 Wall Metal
+57234 Roof Crystal
+57235 Roof Metal
+57236 Roof Hole Crystal
+57237 Roof Hole Metal
+57238 Ramp Crystal
+57239 Ramp Metal
+57240 Stairs Crystal
+57241 Stairs Metal
+57242 Floor Crystal
+57243 Floor Metal
+57244 Floor Triangle Crystal
+57245 Floor Triangle Metal
+57246 Pillar Crystal
+57247 Pillar Metal
+57248 Post Crystal
+57249 Post Metal
+57250 Wall Crystal
+57251 Rampart Crystal
+57252 Rampart Metal
+57253 Wall Ramp Crystal
+57254 Wall Ramp Metal
+57255 Doorway Crystal
+57256 Doorway Metal
+57257 Garage Crystal
+57258 Garage Metal
+57259 Window Crystal
+57260 Window Metal
+57117 Jellyfish
+57118 Raw Fish Meat
+57119 Cooked Fish Meat
+57120 Raw Fish
+57121 Puffer Fish
+57122 Sword Fish
+57123 Sun Fish
+57124 Eel
+57125 Eeeeeeel
+57186 Melon Slice
+57190 Wheat
+57192 Wheat Bundle
+57196 Pumpkin
+57202 Carrot
+57212 Carrot Cake Slice
+57228 Berry
+57230 Berry Refined
+57493 Mushroom

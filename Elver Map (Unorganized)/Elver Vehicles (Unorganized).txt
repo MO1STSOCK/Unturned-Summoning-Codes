@@ -1,0 +1,35 @@
+57000 Bus
+57001 Tank
+57002 Blue Ray
+57003 X-Ray
+57004 Black Ray
+57005 Red Ray
+57006 Yellow Ray
+57007 White Ray
+57008 Black Muscle
+57009 Blue Muscle
+57010 Red Muscle
+57011 Yellow Muscle
+57012 White Muscle
+57013 Stork [Helicopter]
+57014 Woogie
+57015 Black Beeb
+57016 Blue Beeb
+57017 Red Beeb
+57018 White Beeb
+57019 Yellow Beeb
+57020 Quad
+57021 Ambulance
+57022 Delivery Truck
+57023 Blue Motorcycle
+57024 Black Motorcycle
+57025 Red Motorcycle
+57026 White Motorcycle
+57027 Yellow Motorcycle
+57028 Police Car
+57029 Firetruck
+57030 Police Truck Blue [Unused]
+57031 Police Truck Gray
+57032 Police Truck Gray Alt
+57033 Bulldozer
+57034 Cart

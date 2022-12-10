@@ -1,0 +1,39 @@
+5000: Police Truck id
+5001: Black Stallion id
+5002: Blue Stallion id
+5003: Green Stallion id
+5004: Orange Stallion id
+5005: Purple Stallion id
+5006: Red Stallion id
+5007: White Stallion id
+5008: Yellow Stallion id
+5009: Police Stallion id
+5010: Duneslayer id
+5011: Racing Ship id
+5012: Storage Ship id
+5013: Black Land Explorer id
+5014: Blue Land Explorer id
+5015: Green Land Explorer id
+5016: Orange Land Explorer id
+5017: Purple Land Explorer id
+5018: Red Land Explorer id
+5019: White Land Explorer id
+5020: Yellow Land Explorer id
+5021: Olive Land Explorer id
+5022: Stallion RC id
+5023: Black Sedan id
+5024: Blue Sedan id
+5025: Green Sedan id
+5026: Orange Sedan id
+5027: Purple Sedan id
+5028: Red Sedan id
+5029: White Sedan id
+5030: Yellow Sedan id
+5031: Black Truck id
+5032: Olive Truck id
+5033: Red Truck id
+5034: White Truck id
+5035: Desert Tank id
+5036: Desert Humvee id
+5037: Sandspitter id
+5038: Desert Orca id
