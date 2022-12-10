@@ -1,0 +1,13 @@
+Forest Transport Heli	93	
+Desert Transport Heli	94	
+Skycrane	95
+Police Helicopter	106	
+Hummingbird	107	
+Orca	134
+Attack Heli	135	
+Coaster	806	
+Transport Heli (Olive)	144
+Police Helicopter (Germany)	169	
+Attack Heli (France)	174	
+Transport Heli (France)	175
+Orca (France)	184

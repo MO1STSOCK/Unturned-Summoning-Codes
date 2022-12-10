@@ -1,0 +1,10 @@
+8x Scope                 	21	
+Cross Scope             	22	
+Dot Sight               	146
+Halo Sight              	147	
+Chevron Scope            	148	
+7x Scope                    	153
+16x Scope       	        296	
+Makeshift Scope          	476	
+Kobra Sight             	1004
+Military Nightvision Scope	1201

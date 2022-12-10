@@ -1,0 +1,11 @@
+1911 Magazine   	98	
+Cobra Magazine  	100	
+Schofield Clip  	103
+Ace Clip        	108	
+Hawkhound Magazine	111	
+Rifle Clip      	478
+Sportshot Magazine	485	
+Cobra Box       	1006	
+Viper Magazine  	1029
+Kryzkarek Magazine	1040	
+Luger Magazine  	1487

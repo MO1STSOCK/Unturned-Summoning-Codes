@@ -1,0 +1,8 @@
+Maple Barricade			30	
+Birch Barricade			45	
+Pine Barricade			46
+Sandbag				365	
+Tanktrap			1227	
+Ghillie Netting (Forest)	1396
+Ghillie Netting (Olive)		1397	
+Ghillie Netting (Dark)  	1500

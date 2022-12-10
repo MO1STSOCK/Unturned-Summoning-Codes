@@ -1,0 +1,10 @@
+Spotlight			459	
+Jack-o-Lantern (Barricade)	1049	
+Cagelight			1222
+Lamp				1255	
+Blue Flare (Barricade)		1272	
+Green Flare (Barricade)		1273
+Orange Flare (Barricade)	1274	
+Purple Flare (Barricade)	1275	
+Red Flare (Barricade)		1276
+Yellow Flare (Barricade)	1277	

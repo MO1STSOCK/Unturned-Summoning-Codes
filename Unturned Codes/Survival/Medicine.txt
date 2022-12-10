@@ -1,0 +1,16 @@
+Medkit  	15	
+Bandage 	95	
+Splint  	96
+Vaccine 	269	
+Adrenaline	387	
+Morphine	388
+Antibiotics	389	
+Painkillers	390	
+Vitamins	391
+Tablets 	392	
+Rag     	393	
+Dressing	394
+Bloodbag	395	
+Suturekit	403	
+Cough Syrup	404
+Heatstim	1129

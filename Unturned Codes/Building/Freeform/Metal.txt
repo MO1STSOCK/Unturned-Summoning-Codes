@@ -1,0 +1,6 @@
+Metal Doorframe		1089	
+Metal Garageframe	1090	
+Large Metal Plate	1091
+Metal Siding		1093	
+Metal Pipe		1094
+Large Slippery Plate	1239

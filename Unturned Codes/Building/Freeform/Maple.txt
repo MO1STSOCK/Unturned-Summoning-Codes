@@ -1,0 +1,11 @@
+Large Maple Plate		1058
+Large Maple Frame		1060
+Small Maple Frame		1061	
+Maple Siding			1062	
+Maple Pipe			1063
+Maple Doorframe			1083	
+Maple Garageframe		1084	
+Large Maple Plate (Equilateral)	1146
+Large Maple Plate (Right)	1147	
+Small Maple Plate (Equilateral)	1152	
+Small Maple Plate (Right)	1153

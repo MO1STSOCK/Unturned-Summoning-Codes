@@ -1,0 +1,10 @@
+Ranger Magazine         	123	
+Ranger Drum                    	125	
+Nykorev Box             	127
+Snayperskya Magazine    	130	
+Yuri Magazine           	1042	
+Teklowvka Magazine      	1361
+Hell's Fury Drum        	1365	
+Bulldog Magazine        	1371	
+Calling Card Magazine   	1381
+Maschinengewehr Magazine	1479

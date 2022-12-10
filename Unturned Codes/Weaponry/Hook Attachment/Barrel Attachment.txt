@@ -1,0 +1,7 @@
+Military Suppressor	7	
+Ranger Suppressor	144	
+Military Barrel 	149
+Military Muzzle 	150	
+Makeshift Muffler	477	
+Ranger Muzzle   	1190
+Ranger Barrel   	1191	

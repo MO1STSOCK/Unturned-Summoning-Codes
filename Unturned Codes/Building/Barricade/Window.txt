@@ -1,0 +1,11 @@
+Maple Fortification	29	
+Birch Fortification	47	
+Pine Fortification	48
+Bars Fortification	287	
+Maple Shutter		1223	
+Birch Shutter		1224
+Pine Shutter		1225	
+Metal Shutter		1226	
+Weak Glass		1297
+Bulletproof Glass	1298	
+One Way Glass		1299

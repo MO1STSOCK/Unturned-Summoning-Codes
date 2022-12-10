@@ -1,0 +1,4 @@
+Upgraded Cake Blueprint		1430	
+Upgraded Fishing Rod Blueprint	1433	
+Quadbarrel Blueprint		1437
+Bayonet Blueprint		1439

@@ -1,0 +1,2 @@
+Wolf	3	
+Bear	5

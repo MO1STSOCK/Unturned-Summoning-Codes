@@ -1,0 +1,14 @@
+Maple Sign	1095	
+Birch Sign	1096	
+Pine Sign	1097
+Metal Sign	1098	
+Maple Flag	1231	
+Birch Flag	1232
+Pine Flag	1233	
+Metal Flag	1234	
+Book		1327
+Note		1328	
+Maple Placard	1467	
+Birch Placard	1468
+Pine Placard	1469	
+Metal Placard	1470

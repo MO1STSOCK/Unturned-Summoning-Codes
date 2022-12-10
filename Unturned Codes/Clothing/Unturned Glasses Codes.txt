@@ -1,0 +1,6 @@
+Military Nightvision	334	
+Civilian Nightvision	1044	
+Hockey Mask	        1048
+Snorkel	                1181	
+Headlamp	        1199	
+Blindfold	        1464

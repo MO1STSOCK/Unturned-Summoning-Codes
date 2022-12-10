@@ -1,0 +1,8 @@
+Brick Doorway	1210	
+Brick Garage	1211	
+Brick Pillar	1212
+Brick Post	1213	
+Brick Rampart	1214	
+Brick Wall	1215
+Brick Window	1216	
+Brick Ramp Wall	1418

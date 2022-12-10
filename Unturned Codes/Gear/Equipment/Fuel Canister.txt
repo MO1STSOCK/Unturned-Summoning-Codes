@@ -1,0 +1,5 @@
+Portable Gas Can	28	
+Maple Jerrycan		1114	
+Birch Jerrycan		1115
+Pine Jerrycan		1116	
+Industrial Gas Can	1440

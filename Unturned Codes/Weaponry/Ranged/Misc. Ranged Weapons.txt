@@ -1,0 +1,5 @@
+Shadowstalker	300	
+Rocket Launcher	519	
+Nailgun	1165
+Paintball Gun	1337	
+Shadowstalker Mk. II	1441

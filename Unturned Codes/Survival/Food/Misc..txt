@@ -1,0 +1,4 @@
+Bread	460	
+Cheese	464	
+Eggs	470
+Dough	1162

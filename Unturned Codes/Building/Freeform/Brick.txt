@@ -1,0 +1,2 @@
+Brick Doorframe		1217	
+Brick Garageframe	1218

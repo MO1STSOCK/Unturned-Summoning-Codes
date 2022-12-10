@@ -1,0 +1,15 @@
+Metal Floor      	369	
+Metal Doorway    	370	
+Metal Wall      	371
+Metal Window    	372	
+Metal Roof      	373	
+Metal Pillar     	374
+Metal Stairs     	375	
+Metal Hole      	376	
+Metal Ramp      	377
+Metal Rampart     	446	
+Metal Post      	449	
+Metal Garage      	454
+Triangular Metal Floor	1265	
+Triangular Metal Roof	1269	
+Metal Ramp Wall	1417

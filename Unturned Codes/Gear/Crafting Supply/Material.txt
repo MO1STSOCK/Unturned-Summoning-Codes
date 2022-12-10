@@ -1,0 +1,22 @@
+Birch Log	37	
+Birch Stick	38	
+Maple Log	39
+Maple Stick	40	
+Pine Log	41	
+Pine Stick	42
+Maple Plank	61	
+Birch Plank	62	
+Pine Plank	63
+Rope		64	
+Wire		65	
+Cloth		66
+Metal Scrap	67	
+Metal Sheet	68	
+Tape		69
+Nails		71	
+Metal Can	72	
+Raw Explosives	73
+Bricks		74	
+Metal Bar	285	
+Leather		516
+Whole Coconut	1452

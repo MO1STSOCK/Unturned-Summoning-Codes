@@ -1,0 +1,25 @@
+Camp Axe	16	
+Fire Axe	104	
+Baseball Bat	105
+Hockey Stick	106	
+Kitchen Knife	120	
+Military Knife	121
+Golf Club	135	
+Sledgehammer	136	
+Butcher Knife	137
+Hammer  	138	
+Pocketknife	139	
+Butterfly Knife	140
+Rake    	142	
+Makeshift Bat	487	
+Baton   	1023
+Frying Pan	1030	
+Shovel   	1031	
+Crowbar 	1032
+Paddle  	1033	
+Pitchfork	1034	
+Machete 	1035
+Katana  	1036	
+Scythe  	1174	
+Pool Cue	1390
+Zweihander	1503

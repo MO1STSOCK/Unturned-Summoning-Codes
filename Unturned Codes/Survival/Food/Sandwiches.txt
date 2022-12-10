@@ -1,0 +1,14 @@
+Tuna Sandwich           	461	
+Grilled Cheese Sandwich 	466	
+BLT Sandwich (Inorganic)	467
+Ham Sandwich            	468	
+Trout Sandwich             	1398	
+Salmon Sandwich          	1399
+Minnow Sandwich             	1400	
+Goldfish Sandwich          	1401	
+Venison Sandwich            	1402
+Bass Sandwich           	1403	
+Beef Sandwich (Organic) 	1404	
+Cheese Steak Sandwich    	1405
+BLT Sandwich (Organic)   	1406	
+Beef Sandwich (Inorganic)	1407	

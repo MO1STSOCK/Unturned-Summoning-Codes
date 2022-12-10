@@ -1,0 +1,32 @@
+Couch				1256		
+Umbrella (Barricade)		1282	
+Maple Rectangular Table		1284
+Birch Rectangular Table		1285	
+Pine Rectangular Table		1286	
+Metal Rectangular Table		1287
+Maple Circular Table		1288	
+Birch Circular Table		1289	
+Pine Circular Table		1290
+Metal Circular Table		1291	
+Maple Square Table		1292	
+Birch Square Table		1293
+Pine Square Table		1294	
+Metal Square Table		1295	
+Beach Chair			1296
+Blue Couch			1303	
+Green Couch			1304	
+Orange Couch			1305
+Purple Couch			1306	
+Red Couch			1307	
+Yellow Couch			1308
+Blue Beach Chair		1315	
+Green Beach Chair		1316	
+Orange Beach Chair		1317
+Purple Beach Chair		1318	
+Red Beach Chair			1319	
+Yellow Beach Chair		1320
+Blue Umbrella (Barricade)	1321	
+Green Umbrella (Barricade)	1322	
+Orange Umbrella (Barricade)	1323
+Purple Umbrella (Barricade)	1324	
+Red Umbrella (Barricade)	1325

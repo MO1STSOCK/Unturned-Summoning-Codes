@@ -1,0 +1,178 @@
+Black Offroader	1	
+Blue Offroader	2	
+Green Offroader	3
+Orange Offroader	4	
+Purple Offroader	5	
+Red Offroader	6
+White Offroader	7	
+Yellow Offroader	8	
+Black Hatchback	9
+Blue Hatchback	10	
+Green Hatchback	11	
+Orange Hatchback	12
+Purple Hatchback	13	
+Red Hatchback	14	
+White Hatchback	15
+Yellow Hatchback	16	
+Black Truck	17	
+Blue Truck	18
+Green Truck	19	
+Orange Truck	20	
+Purple Truck	21
+Red Truck	22	
+White Truck	23	
+Yellow Truck	24
+Black Sedan	25	
+Blue Sedan	26	
+Green Sedan	27
+Orange Sedan	28	
+Purple Sedan	29	
+Red Sedan	30
+White Sedan	31	
+Yellow Sedan	32	
+Police Car	33
+Firetruck	34	
+Black Van	35	
+Blue Van	36
+Green Van	37	
+Orange Van	38	
+Purple Van	39
+Red Van	40	
+White Van	41	
+Yellow Van	42
+Black Roadster	43	
+Blue Roadster	44	
+Green Roadster	45
+Orange Roadster	46	
+Purple Roadster	47	
+Red Roadster	48
+White Roadster	49	
+Yellow Roadster	50	
+Forest Ural	51
+Forest Armored Offroader	52	
+Ambulance	54	
+Desert Ural	55
+Desert Armored Offroader	56	
+Explorer	58	
+Black Snowmobile	59
+Blue Snowmobile	60	
+Green Snowmobile	61	
+Orange Snowmobile	62
+Purple Snowmobile	63	
+Red Snowmobile	64	
+White Snowmobile	65
+Yellow Snowmobile	66	
+Black Quad	67	
+Blue Quad	68
+Green Quad	69	
+Orange Quad	70	
+Purple Quad	71
+Red Quad	72	
+White Quad	73	
+Yellow Quad	74
+Golfcart	75	
+Taxi	76	
+Black Racecar	77
+Blue Racecar	78	
+Green Racecar	79	
+Orange Racecar	80
+Purple Racecar	81	
+Red Racecar	82	
+White Racecar	83
+Yellow Racecar	84	
+Tractor (Green)	85	
+Bus	86
+Forest Offroader	87	
+Desert Offroader	88	
+4 Seater Makeshift Vehicle	89
+6 Seater Makeshift Vehicle	90	
+1 Seater Makeshift Vehicle	91	
+Black Auto	110
+Blue Auto	111	
+Green Auto	112	
+Orange Auto	113
+Purple Auto	114	
+Red Auto	115	
+White Auto	116
+Yellow Auto	117	
+Toiler	118	
+Forest Tank	120
+Desert Tank	121	
+Luggage Car	122	
+Ghost	123
+Black Rover	125	
+Blue Rover	126	
+Green Rover	127
+Orange Rover	128	
+Purple Rover	129	
+Red Rover	130
+White Rover	131	
+Yellow Rover	132	
+Ural (Olive)	136
+Tank (Olive)	137	
+Tractor (Red)	138	
+Moon Buggy	139
+Dumptruck	141	
+Prison Truck	142	
+Armored Offroader (Olive)	143
+Military Offroader (Olive)	145	
+Military Offroader (Coalition)	146	
+Ural (Coalition)	147
+Black Rabbit	149	
+Blue Rabbit	150	
+Green Rabbit	151
+Orange Rabbit	152	
+Purple Rabbit	153	
+Red Rabbit	154
+White Rabbit	155	
+Yellow Rabbit	156	
+Eagle	157
+Black Beetle	158	
+Blue Beetle	159	
+Green Beetle	160
+Orange Beetle	161	
+Purple Beetle	162	
+Red Beetle	163
+White Beetle	164	
+Yellow Beetle	165	
+Police Car (Germany)	166
+Firetruck (Germany)	167	
+Ambulance (Germany)	168	
+Armored Police Truck	802
+Fire Tanker	804	
+Fire Chief	805	
+Red Sportscar	811
+Black Sportscar	812	
+Blue Sportscar	813	
+Green Sportscar	814
+Orange Sportscar	815	
+Purple Sportscar	816	
+White Sportscar	817
+Yellow Sportscar	818	
+Orange Dune Buggy	819	
+Red Dune Buggy	820
+Black Dune Buggy	821	
+Blue Dune Buggy	822	
+Green Dune Buggy	823
+Purple Dune Buggy	824	
+White Dune Buggy	825	
+Yellow Dune Buggy	826
+Desert Truck	829	
+Bulldozer	840	
+Cement Truck	841
+Skid Loader	842	
+Sport Dune Buggy	843	
+Scavenger	844
+Delivery Truck	847	
+Black Dirtbike	176	
+Blue Dirtbike	177
+Green Dirtbike	178	
+Orange Dirtbike	179	
+Purple Dirtbike	180
+Red Dirtbike	181	
+White Dirtbike	182	
+Yellow Dirtbike	183
+Police Motorcycle	188	
+Jeep (France)	170	
+Ural (France)	171
+Tank (France)	173

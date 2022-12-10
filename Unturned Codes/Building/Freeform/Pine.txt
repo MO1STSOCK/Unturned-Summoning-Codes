@@ -1,0 +1,11 @@
+Large Pine Plate		1070
+Large Pine Frame		1072
+Small Pine Frame		1073	
+Pine Siding			1074	
+Pine Pipe			1075
+Pine Doorframe			1087	
+Pine Garageframe		1088	
+Large Pine Plate (Equilateral)	1148
+Large Pine Plate (Right)	1149	
+Small Pine Plate (Equilateral)	1154	
+Small Pine Plate (Right)	1155

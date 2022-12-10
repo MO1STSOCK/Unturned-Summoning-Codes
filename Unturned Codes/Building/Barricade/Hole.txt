@@ -1,0 +1,8 @@
+Maple Ladder	325	
+Birch Ladder	326	
+Pine Ladder	327
+Metal Ladder	379	
+Maple Hatch	1329	
+Birch Hatch	1330
+Pine Hatch	1331	
+Metal Hatch	1332

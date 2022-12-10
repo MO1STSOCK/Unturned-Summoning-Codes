@@ -1,0 +1,8 @@
+Maple Gate		451	
+Birch Gate		455	
+Pine Gate		456
+Metal Gate		457	
+Maple Doubledoor	1235	
+Birch Doubledoor	1236
+Pine Doubledoor		1237	
+Metal Doubledoor	1238

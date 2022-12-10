@@ -1,0 +1,29 @@
+Red Daypack	  9	
+Black Daypack	  200	
+Blue Daypack	  201
+Green Daypack	  202	
+Orange Daypack	  203	
+Purple Daypack	  204
+White Daypack	  205	
+Yellow Daypack	  206	
+Black Travelpack  245
+Blue Travelpack	  246	
+Green Travelpack  247	
+Orange Travelpack 248
+Purple Travelpack 249	
+Red Travelpack	  250	
+White Travelpack  251
+Yellow Travelpack 252	
+Alicepack	  253	
+Leather Pack	  1014
+Spec Ops Rucksack 1170	
+Diving Tank	  1178	
+Black Dufflebag	  1182
+Blue Dufflebag	  1183	
+Green Dufflebag	  1184	
+Orange Dufflebag  1185
+Purple Dufflebag  1186	
+Red Dufflebag	  1187	
+White Dufflebag	  1188
+Yellow Dufflebag  1189	
+Arctic Alicepack  1511	

@@ -1,0 +1,5 @@
+Low Caliber Military Ammunition Crate	43	
+Low Caliber Civilian Ammunition Box	44	
+Low Caliber Ranger Ammunition Box	119
+High Caliber Military Ammunition Crate	1192	
+High Caliber Ranger Ammunition Box	1193

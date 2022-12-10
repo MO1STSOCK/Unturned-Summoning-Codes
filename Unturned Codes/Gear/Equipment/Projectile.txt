@@ -1,0 +1,20 @@
+Fragmentation Grenade		254	
+Blue Flare (Projectile)		255	
+Green Flare (Projectile)	256
+Orange Flare (Projectile)	257	
+Purple Flare (Projectile)	258	
+Red Flare (Projectile)		259
+Yellow Flare (Projectile)	260	
+Black Smoke			261	
+Blue Smoke			262
+Green Smoke			263	
+Orange Smoke			264	
+Purple Smoke			265
+Red Smoke			266	
+White Smoke			267	
+Yellow Smoke			268
+Sticky Grenade			1100	
+Snowball			1132	
+Makeshift Grenade		1242
+Flashbang			1346	
+Impact Grenade			1520

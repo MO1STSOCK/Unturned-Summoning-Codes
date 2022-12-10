@@ -1,0 +1,11 @@
+Large Birch Plate		1064
+Large Birch Frame		1066
+Small Birch Frame		1067	
+Birch Siding			1068	
+Birch Pipe			1069
+Birch Doorframe			1085	
+Birch Garageframe		1086	
+Large Birch Plate (Equilateral)	1144
+Large Birch Plate (Right)	1145	
+Small Birch Plate (Equilateral)	1150	
+Small Birch Plate (Right)	1151

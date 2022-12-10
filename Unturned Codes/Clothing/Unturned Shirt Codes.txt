@@ -1,0 +1,70 @@
+Orange Hoodie           	3	
+Orange Shirt            	154	
+Orange T-Shirt	                155
+Orange Parka              	156	
+Purple Hoodie              	157	
+Purple Shirt            	158
+Purple T-Shirt             	159	
+Purple Parka              	160	
+Green Hoodie            	161
+Green Parka             	162	
+Green Shirt             	163	
+Green T-Shirt            	164
+Red Hoodie                  	165	
+Red Parka               	166	
+Red Shirt                   	167
+Red T-Shirt             	168	
+Yellow Hoodie               	169	
+Yellow Parka              	170
+Yellow Shirt             	171	
+Yellow T-Shirt            	172	
+Blue Hoodie	                173
+Blue Parka               	174	
+Blue Shirt	                175	
+Blue T-Shirt             	176
+White Hoodie                   	177	
+White Parka             	178	
+White Shirt                	179
+White T-Shirt               	180	
+Black Hoodie	                181	
+Black Parka	                182
+Black Shirt	                183	
+Black T-Shirt	                184	
+Plaid Shirt	                211
+Police Top	                223	
+Chef Top	                230	
+Construction Top	        232
+Firefighter Top	                233	
+Ghillie Top (Forest)	        235	
+Farmer Top	                242
+Prisoner Top	                303	
+RCMP Top	                306	
+Forest Military Top	        307
+Medic Top	                311	
+Grocer Top	                314	
+Mechanic Top	                405
+Engineer Top	                407	
+Suit Top	                421	
+Fishing Top	                510
+Leather Top	                517	
+Desert Military Top	        1011	
+Biohazard Top	                1015
+Thief Top	                1156	
+Spec Ops Top	                1171	
+Wetsuit Top	                1179
+Military Top	                1333	
+Ghillie Top (Olive)	        1354	
+Pilot Top	                1358
+Mafia Tuxedo Top	        1386	
+Tracksuit Top	                1391	
+Ensign Coalition Top	        1420
+Lieutenant Coalition Top	1421	
+Major Coalition Top	        1422	
+Commander Coalition Top	        1423
+Coastguard Top	                1462	
+Fighter Pilot Top	        1473	
+Military Top (Germany)	        1491
+Ghillie Top (Dark)	        1492	
+Lederhosen Top	                1498	
+Arctic Military Top	        1516
+Arctic Ghillie Top	        1512

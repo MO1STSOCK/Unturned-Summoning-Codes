@@ -1,0 +1,7 @@
+PDW     	116	
+Peacemaker	1024	
+Viper    	1027
+Yuri    	1041	
+Bulldog 	1369	
+Calling Card	1379
+Scalar	        1447

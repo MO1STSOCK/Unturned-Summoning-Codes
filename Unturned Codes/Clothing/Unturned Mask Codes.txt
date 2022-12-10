@@ -1,0 +1,20 @@
+Red Bandana	   11	
+Black Bandana	   185	
+Blue Bandana	   186
+Green Bandana	   187	
+Orange Bandana	   188	
+Purple Bandana	   189
+White Bandana	   190	
+Yellow Bandana	   191	
+Black Balaclava	   434
+Blue Balaclava	   435	
+Green Balaclava	   436	
+Orange Balaclava   437
+Purple Balaclava   438	
+Red Balaclava	   439	
+White Balaclava	   440
+Yellow Balaclava   441	
+Biohazard Hood	   1017	
+Hockey Mask	   1048
+Gasmask	           1270	
+Earpiece	   1446	

@@ -1,0 +1,44 @@
+Tophat	                27	
+Black Toque	        192	
+Blue Toque	        193
+Green Toque	        194	
+Orange Toque	        195
+Purple Toque	        196
+Red Toque	        197	
+White Toque	        198	
+Yellow Toque	        199
+Police Cap	        225	
+Ghillie Hood (Forest)	237	
+Chef Hat	        239
+Construction Helmet	240	
+Firefighter Helmet	241	
+Farmer Hat	        244
+Forest Military Helmet	309	
+RCMP Hat	        313	
+Engineer Hat	        423
+Fedora	                424	
+Black Cap	        425	
+Blue Cap	        426
+Green Cap	        427 	
+Orange Cap	        428	
+Purple Cap	        429
+Red Cap	                430	
+White Cap	        431	
+Yellow Cap	        432
+Forest Beret	        433	
+Fishing Hat	        509	
+Desert Beret	        1009
+Desert Military Helmet	1010	
+Military Helmet	        1335	
+Ghillie Hood (Olive)	1356
+Pilot Cap	        1359	
+Mafia Fedora	        1385	
+Beret (Olive)	        1388
+Spec Ops Beret	        1389	
+Coalition Cap	        1426	
+Coalition Helmet	1427
+Coalition Beret	        1428	
+Fighter Pilot Helmet	1472	
+Ghillie Hood (Dark)	1494
+Arctic Ghillie Hood	1515	
+Arctic Military Helmet	1519	

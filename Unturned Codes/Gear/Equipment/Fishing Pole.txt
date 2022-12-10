@@ -1,0 +1,5 @@
+Fishing Rod		503	
+Birch Rod		506	
+Maple Rod		507
+Pine Rod		508	
+Upgraded Fishing Rod	1432

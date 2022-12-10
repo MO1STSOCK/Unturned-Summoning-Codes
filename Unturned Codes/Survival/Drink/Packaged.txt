@@ -1,0 +1,11 @@
+Bottled Water	14	
+Canned Cola	80	
+Apple Juice	91
+Grape Juice	92	
+Bottled Energy	93	
+Bottled Coconut	94
+Milk Box	462	
+Orange Juice	463	
+Canned Soda	465
+Bottled Cola	472	
+Bottled Soda	473

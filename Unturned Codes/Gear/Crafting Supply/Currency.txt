@@ -1,0 +1,7 @@
+$5 Note		1051	
+$10 Note	1052	
+$20 Note	1053
+$50 Note	1054	
+$100 Note	1055	
+Loonie		1056
+Toonie		1057

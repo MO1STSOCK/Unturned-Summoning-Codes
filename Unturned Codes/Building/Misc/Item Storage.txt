@@ -1,0 +1,30 @@
+Locker			328	
+Maple Crate		366	
+Birch Crate		367
+Pine Crate		368	
+Maple Rifle Rack	1202	
+Birch Rifle Rack	1203
+Pine Rifle Rack		1204	
+Maple Trophy Case	1205	
+Birch Trophy Case	1206
+Pine Trophy Case	1207	
+Metal Rifle Rack	1220	
+Metal Trophy Case	1221
+Maple Counter		1245	
+Birch Counter		1246	
+Pine Counter		1247
+Metal Counter		1248	
+Fridge			1249	
+Maple Counter Sink	1251
+Birch Counter Sink	1252	
+Pine Counter Sink	1253	
+Metal Counter Sink	1254
+Maple Wardrobe		1278	
+Birch Wardrobe		1279	
+Pine Wardrobe		1280
+Metal Wardrobe		1281	
+Cooler			1283	
+Maple Plaque		1410
+Birch Plaque		1411	
+Pine Plaque		1412	
+Metal Plaque		1413

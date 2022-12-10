@@ -1,0 +1,11 @@
+Runabout	97	
+Black Jetski	98	
+Blue Jetski	99
+Green Jetski	100	
+Orange Jetski	101	
+Purple Jetski	102
+Red Jetski	103	
+White Jetski	104	
+Yellow Jetski	105
+Police Launch	108	
+Dinghy		124

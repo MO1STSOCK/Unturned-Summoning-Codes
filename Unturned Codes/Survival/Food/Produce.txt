@@ -1,0 +1,20 @@
+Carrot   	329	
+Corn    	335	
+Lettuce 	338
+Tomato    	340	
+Potato  	342	
+Wheat   	344
+Raw Trout	504	
+Raw Salmon	505	
+Cooked Trout	512
+Cooked Salmon	513	
+Raw Venison	514	
+Cooked Venison	515
+Pumpkin 	1046	
+Pork     	1117	
+Bacon   	1118
+Raw Beef	1120	
+Cooked Beef	1121	
+Raw Squid	1434
+Cooked Squid	1435	
+Split Coconut	1453

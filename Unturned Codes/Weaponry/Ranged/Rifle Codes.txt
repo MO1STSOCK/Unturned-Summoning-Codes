@@ -1,0 +1,6 @@
+Schofield	101	
+Hawkhound	109	
+Maple Rifle	474
+Birch Rifle	479	
+Pine Rifle	480	
+Sportshot	484

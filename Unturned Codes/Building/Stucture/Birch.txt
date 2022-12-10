@@ -1,0 +1,15 @@
+Birch Doorway   	49	
+Birch Floor     	51	
+Birch Pillar    	53
+Birch Roof      	55	
+Birch Wall      	57	
+Birch Window    	59
+Birch Stairs      	318	
+Birch Hole      	321	
+Birch Ramp      	323
+Birch Rampart   	444	
+Birch Post      	447	
+Birch Garage    	452
+Triangular Birch Floor	1263	
+Triangular Birch Roof	1267	
+Birch Ramp Wall 	1415

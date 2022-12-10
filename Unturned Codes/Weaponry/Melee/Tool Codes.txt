@@ -1,0 +1,3 @@
+Saw             141	
+Flashlight	276	
+Pickaxe 	1198

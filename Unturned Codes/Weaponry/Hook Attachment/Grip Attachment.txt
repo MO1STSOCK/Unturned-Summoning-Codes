@@ -1,0 +1,3 @@
+Vertical Grip	8	
+Bipod   	143	
+Horizontal Grip	145

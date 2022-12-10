@@ -1,0 +1,37 @@
+Police Vest	        10	
+Black Sweatervest	215	
+Blue Sweatervest	216
+Green Sweatervest	217	
+Orange Sweatervest	218	
+Purple Sweatervest	219
+Red Sweatervest	        220	
+White Sweatervest	221	
+Yellow Sweatervest	222
+Ghillie Vest (Forest)	238	
+Forest Military Vest	310	
+Black Poncho	        410
+Blue Poncho	        411	
+Green Poncho	        412	
+Orange Poncho	        413
+Purple Poncho	        414	
+Red Poncho	        415	
+White Poncho	        416
+Yellow Poncho	        417	
+Desert Military Vest	1013	
+Black Scarf	        1133
+Blue Scarf      	1134	
+Green Scarf	        1135	
+Orange Scarf    	1136
+Purple Scarf    	1137	
+Red Scarf	        1138	
+White Scarf	        1139
+Yellow Scarf	        1140	
+Civilian Vest	        1168	
+Spec Ops Vest	        1169
+Makeshift Armor	        1173	
+Military Vest (Olive)	1336	
+Ghillie Vest (Olive)	1357
+Coalition Vest	        1425	
+Ghillie Vest (Dark)	1495	
+Arctic Ghillie Vest	1514
+Arctic Military Vest	1518	

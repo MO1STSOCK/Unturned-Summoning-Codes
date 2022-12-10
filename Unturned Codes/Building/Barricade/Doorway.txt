@@ -1,0 +1,6 @@
+Maple Door	281	
+Birch Door	282	
+Pine Door	283
+Jail Door	284	
+Vault Door	286	
+Metal Door	378

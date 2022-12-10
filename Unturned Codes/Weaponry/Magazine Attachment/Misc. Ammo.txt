@@ -1,0 +1,22 @@
+12 Gauge Shells                   	113	
+Rail                            	301	
+Arrow                              	347
+Maple Arrow                        	348	
+Birch Arrow                         	351	
+Pine Arrow                         	352
+20 Gauge Shells                      	381	
+Rocket                           	520	
+Nailgun Magazine                   	1166
+Military Tracer Magazine          	1177	
+Military Fragmentation Magazine 	1200	
+Explosive Arrow                     	1209
+Missile                          	1302	
+Blue Paintball Hopper            	1339	
+Green Paintball Hopper           	1340
+Orange Paintball Hopper         	1341	
+Purple Paintball Hopper 	        1342	
+Red Paintball Hopper                	1343
+Yellow Paintball Hopper          	1344	
+Vonya Magazine                   	1368	
+Shadowstalker Mk. II Drum           	1443
+Devil's Bane Magazine              	1485

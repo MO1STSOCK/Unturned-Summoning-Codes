@@ -1,0 +1,30 @@
+Black Bedroll			288	
+Blue Bedroll			289	
+Green Bedroll			290
+Orange Bedroll			291	
+Purple Bedroll			292	
+Red Bedroll			293
+White Bedroll			294	
+Yellow Bedroll			295	
+Planter				331
+Campfire			362	
+Safezone Radiator		1050	
+4 Seater Makeshift Vehicle	1099
+6 Seater Makeshift Vehicle	1111	
+1 Seater Makeshift Vehicle	1112	
+Claim Flag			1158
+Rain Barrel			1208	
+Pump Jack			1219	
+Cot				1243
+Oven				1250	
+Oxygenator			1261	
+Blue Cot			1309
+Green Cot			1310	
+Orange Cot			1311	
+Purple Cot			1312
+Red Cot				1313	
+Yellow Cot			1314	
+Plot				1345
+Cloth Mannequin			1408	
+Metal Mannequin			1409	
+Clock				1509

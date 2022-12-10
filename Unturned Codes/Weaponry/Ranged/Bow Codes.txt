@@ -1,0 +1,5 @@
+Crossbow	346	
+Maple Bow	353	
+Birch Bow	355
+Pine Bow	356	
+Compound Bow	357

@@ -1,0 +1,3 @@
+Neutral Sentry	1244	
+Friendly Sentry	1372	
+Hostile Sentry	1373

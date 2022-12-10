@@ -1,0 +1,15 @@
+Canned Beans     	13	
+Canned Tomato Soup	77	
+Canned Chicken Soup	78
+Canned Tuna     	79	
+MRE                	81	
+Chips           	82
+Chocolate Bar       	83	
+Candy Bar       	84	
+Granola Bar     	85
+Energy Bar        	86	
+Canned Pasta      	87	
+Canned Bacon       	88
+Canned Beef           	89	
+Canned Sardines 	90	
+Canned Ham      	469

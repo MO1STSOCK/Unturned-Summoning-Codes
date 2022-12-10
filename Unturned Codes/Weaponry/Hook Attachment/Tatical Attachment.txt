@@ -1,0 +1,5 @@
+Tactical Laser   	151	
+Tactical Light   	152	
+Adaptive Chambering	1007
+Rangefinder      	1008	
+Bayonet         	1438

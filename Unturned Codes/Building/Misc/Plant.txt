@@ -1,0 +1,14 @@
+Carrot Seed		330	
+Corn Seed		336	
+Lettuce Seed		339
+Tomato Seed		341	
+Potato Seed		343	
+Wheat Seed		345
+Pumpkin Seed		1045	
+Amber Berry Seed	1104	
+Indigo Berry Seed	1105
+Jade Berry Seed		1106	
+Mauve Berry Seed	1107	
+Russet Berry Seed	1108
+Teal Berry Seed		1109	
+Vermillion Berry Seed	1110

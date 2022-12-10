@@ -1,0 +1,15 @@
+Pine Doorway     	50	
+Pine Floor       	52	
+Pine Pillar      	54
+Pine Roof        	56	
+Pine Wall       	58	
+Pine Window     	60
+Pine Stairs      	317	
+Pine Hole        	320	
+Pine Ramp       	324
+Pine Rampart    	445	
+Pine Post       	448	
+Pine Garage     	453
+Triangular Pine Floor	1264	
+Triangular Pine Roof	1268	
+Pine Ramp Wall   	1416

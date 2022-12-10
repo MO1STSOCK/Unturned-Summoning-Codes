@@ -1,0 +1,51 @@
+Work Jeans      	2	
+Outfit Jeans     	207	
+Cowboy Jeans    	208
+Cargo Pants     	209	
+Khaki Pants     	212	
+Corduroy Pants  	213
+Trouser Pants    	214	
+Police Bottom   	224	
+Khaki Shorts     	226
+Cargo Shorts     	227	
+Corduroy Shorts 	228	
+Trouser Shorts  	229
+Chef Bottom     	231	
+Firefighter Bottom	234	
+Ghillie Bottom (Forest)	236
+Farmer Bottom   	243	
+Prisoner Bottom 	304	
+RCMP Bottom     	305
+Forest Military Bottom	308	
+Medic Bottom      	312	
+Grocer Bottom   	315
+Mechanic Bottom 	406	
+Engineer Bottom 	408	
+Suit Bottom     	422
+Fishing Bottom  	511	
+Leather Bottom  	518	
+Designer Jeans  	548
+Desert Military Bottom	1012	
+Biohazard Bottom	1016	
+Thief Bottom       	1157
+Spec Ops Bottom 	1172	
+Wetsuit Bottom   	1180	
+Military Bottom 	1334
+Ghillie Bottom (Olive)	1355	
+Mafia Tuxedo Bottom	1387	
+Tracksuit Bottom	1392
+Coalition Bottom	1419	
+Black Trunks      	1454	
+Blue Trunks      	1455
+Green Trunks      	1456	
+Orange Trunks     	1457	
+Purple Trunks     	1458
+Red Trunks         	1459	
+White Trunks        	1460	
+Yellow Trunks    	1461
+Coastguard Bottom	1463	
+Fighter Pilot Bottom	1474	
+Ghillie Bottom (Dark)	1493
+Lederhosen Bottom	1499	
+Arctic Ghillie Bottom	1513	
+Arctic Military Bottom	1517

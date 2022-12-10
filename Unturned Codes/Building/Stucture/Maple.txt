@@ -1,0 +1,15 @@
+Maple Floor     	31	
+Maple Doorway   	32	
+Maple Wall      	33
+Maple Window    	34	
+Maple Roof      	35	
+Maple Pillar    	36
+Maple Stairs    	316	
+Maple Hole      	319	
+Maple Ramp      	322
+Maple Rampart   	442	
+Maple Post      	443	
+Maple Garage    	450
+Triangular Maple Floor	1262	
+Triangular Maple Roof	1266	
+Maple Ramp Wall 	1414

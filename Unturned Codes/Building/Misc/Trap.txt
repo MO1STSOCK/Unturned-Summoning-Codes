@@ -1,0 +1,11 @@
+Caltrop				382	
+Maple Spikes			383	
+Birch Spikes			384
+Pine Spikes			385	
+Barbed Wire			386	
+Landmine			1101
+Claymore			1102	
+Snare				1113	
+Barbed Wire Fence		1119
+Ornamental Barbed Wire		1130	
+Ornamental Barbed Wire Fence	1131
